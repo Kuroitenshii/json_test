@@ -1,8 +1,8 @@
 {
-	"status": "ERROR",
-	"code": 4000,
+	"status": "SUCCESS",
+	"code": 200,
 	"msg": {
-		"en": "This License key is invalid, could it be you are using the wrong client? If you have made a purchase from Amazon please make sure you use the download link in the email sent from Amazon."
+		"en": "This License key is valid"
 	},
 	"id": "e45d-146198157"
 }
